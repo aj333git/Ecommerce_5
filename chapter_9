@@ -1,0 +1,13 @@
+completed mapping from chapter 9
+
+
+Created a Migration
+dotnet ef migrations add Orders
+
+
+after changing seeddata file
+dotnet ef database drop --force --context StoreDbContext
+
+
+dotnet ef database drop --force --context StoreDbContext
+
